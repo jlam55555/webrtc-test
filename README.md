@@ -1,4 +1,4 @@
-# test-webrtc
+# webrtc-test
 Experimenting with WebRTC technologies for peer-to-peer connections
 
 ### Description
